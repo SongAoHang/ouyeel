@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="/public/css/header.css">
+<div class="header-wrapper">
+    <!-- PC Navbar -->
+    <div class="container-fluid menus-pc">
+        <div class="row header-bg" style="background-color: rgba(0, 0, 0, 0.8) !important; text-align: center;padding: 20px">
+            <div class="container">
+                <div class="row header-r1">
+                    <div class="">
+                      <div class="col-xs-12">
+                        <span class="" style="margin-left: 5px;">
+                          <a href="" class="menu__link" style="font-size: 14px;">Fast News</a>
+                        </span>
+                        <span style="margin-left: 5px;color: white">|</span>
+                       
+                        <span class="" style="margin-left: 5px;">
+                          <a href="" class="menu__link" style="font-size: 14px;">Insights</a>
+                        </span>
+                        <span style="margin-left: 5px;color: white">|</span>
+                        <span class="" style="margin-left: 5px;">
+                          <a href="" class="menu__link" style="font-size: 14px;">Career</a>
+                        </span>
+                      </div>
+                    </div>
+              </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- Mobile Navbar -->
+
+</div>
